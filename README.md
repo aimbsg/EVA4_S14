@@ -18,3 +18,5 @@ Total images = 400K. Size = 1.6GB; Resolution = 224X224
 Mean and std. dev : Work-in-progress
 
 Also placed all the images directly in drive which consumes more space and more time to load. Will convert them to zip and store in drive for easy storage and retrieval.
+
+<img src = "Data_Samples_Depth_Model.png">
